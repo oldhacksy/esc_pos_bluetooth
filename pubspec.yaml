@@ -13,7 +13,6 @@ dependencies:
   esc_pos_utils:
     git:
         url: https://github.com/oldhacksy/esc_pos_utils.git
-        ref: main
   # esc_pos_utils:
   # path: ../esc_pos_utils
   flutter_bluetooth_basic: ^0.1.7
